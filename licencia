@@ -1,0 +1,37 @@
+Ve al repositorio en GitHub que deseas cambiar la licencia.
+
+Haz clic en la pestaña "Settings" (Configuración) en la parte superior del repositorio.
+
+En la columna de la izquierda, desplázate hacia abajo y haz clic en "Licenses" (Licencias).
+
+En la página de Licencias, verás una lista de licencias populares. Puedes hacer clic en una licencia para obtener más información sobre ella.
+
+Una vez que hayas elegido la licencia que deseas aplicar, haz clic en el botón "Review and submit" (Revisar y enviar).
+
+En la página de revisión, se te pedirá que confirmes los términos de la licencia y los cambios que se realizarán en los archivos de tu repositorio. Asegúrate de leer y comprender los términos de la licencia antes de continuar.
+
+Si estás de acuerdo con los términos de la licencia y deseas proceder, marca la casilla que confirma que deseas cambiar la licencia y haz clic en el botón "Submit" (Enviar).
+
+Una vez que hayas completado estos pasos, la licencia seleccionada se aplicará a tu repositorio en GitHub. Asegúrat
+En tu repositorio de GitHub, haz clic en el archivo existente que contiene la licencia (por ejemplo, LICENSE o LICENSE.md). Si no tienes un archivo de licencia, puedes crear uno nuevo.
+
+Haz clic en el lápiz o en el botón "Edit" (Editar) para modificar el archivo.
+
+Reemplaza el texto existente con el texto de la licencia que deseas aplicar. Puedes copiar y pegar el texto de una licencia estándar, como las licencias de la Free Software Foundation (FSF) o de la Open Source Initiative (OSI).
+
+Una vez que hayas realizado los cambios, desplázate hacia abajo en la página y completa los campos de "Commit changes" (Confirmar cambios). Proporciona un título y, opcionalmente, una descripción breve de los cambios que has realizado en el archivo de licencia.
+
+Haz clic en el botón "Commit changes" (Confirmar cambios) para guardar los cambios y actualizar el archivo de licencia.
+
+Después de seguir estos pasos, habrás cambiado la licencia en tu repositorio de GitHub manualmente. Asegúrate de revisar y cumplir con los término
+En tu repositorio de GitHub, haz clic en el archivo existente que contiene la licencia (por ejemplo, LICENSE o LICENSE.md). Si no tienes un archivo de licencia, puedes crear uno nuevo.
+
+Haz clic en el lápiz o en el botón "Edit" (Editar) para modificar el archivo.
+
+Reemplaza el texto existente con el texto de la licencia que deseas aplicar. Puedes copiar y pegar el texto de una licencia estándar, como las licencias de la Free Software Foundation (FSF) o de la Open Source Initiative (OSI).
+
+Una vez que hayas realizado los cambios, desplázate hacia abajo en la página y completa los campos de "Commit changes" (Confirmar cambios). Proporciona un título y, opcionalmente, una descripción breve de los cambios que has realizado en el archivo de licencia.
+
+Haz clic en el botón "Commit changes" (Confirmar cambios) para guardar los cambios y actualizar el archivo de licencia.
+
+Después de seguir estos pasos, habrás cambiado la licencia en tu repositorio de GitHub manualmente. Asegúrate de revisar y cumplir con los término
